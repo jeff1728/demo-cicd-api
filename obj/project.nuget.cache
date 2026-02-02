@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HwhgCSC3XNo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\schaf\\Documents\\Septimo Semestre\\Programacion Avanzada\\Unidad 3\\Lab 2\\Demo.CICD.Api\\Demo.CICD.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\schaf\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\schaf\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
